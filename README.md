@@ -1,4 +1,20 @@
 # USAGE 
+$ apt update && apt upgrade
+
+$ pkg install wget
+
+$ pkg install php
+
+$ pkg install curl
+
+$ pkg install openssh
+
+$ pkg install ruby
+
+$ gem install lolcat
+
+$ git clone https://github.com/KING-localhost/CRACKLOK.git
+
 $ bash setup.sh
 
 $ bash CRACK.sh
