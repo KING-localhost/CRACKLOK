@@ -15,6 +15,8 @@ $ gem install lolcat
 
 $ git clone https://github.com/KING-localhost/CRACKLOK.git
 
+$ cd CRACKLOK
+
 $ bash setup.sh
 
 $ bash CRACK.sh
