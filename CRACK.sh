@@ -1,6 +1,6 @@
 
 # cie intip intip
-# Author     : SisaNutur
+# Author     : Ridho Akhmad
 # Youtube    : KING-localhost
 # Group      : https://chat.whatsapp.com/JGnX6PhLrL8H6AfNoerLBC
 
